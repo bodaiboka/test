@@ -9,5 +9,5 @@ There are three screens in the application: Main screen, Settings screen and Gam
     <img src="https://github.com/bodaiboka/test/blob/master/image.png" width="200" hspace="20"/>
 </div>
 
-In the Main screen you can start a new game with the specified settings, or you can choose the Settings to customize the game.
+<p marginTop="20" >In the Main screen you can start a new game with the specified settings, or you can choose the Settings to customize the game. </p>
 
