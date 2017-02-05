@@ -10,5 +10,6 @@ There are three screens in the application: Main screen, Settings screen and Gam
 </div>
 <p/>
 <p >In the Main screen you can start a new game with the specified settings, or you can choose the Settings to customize the game. </p>
-<p >In the Main screen you can start a new game with the specified settings, or you can choose the Settings to customize the game. </p>
+<p >In the Settings screen you can cutomize the game paramteres like: game table size, initial pattern. After you set the paramteres you must press save button in order to apply settings.</p>
+<p >.</p>
 
