@@ -21,5 +21,5 @@ There are three screens in the application: Main screen, Settings screen and Gam
 <p >In the Game screen you can see your selected initial pattern. If you don't check "start from selected pattern" checkbox in the Settings you will see an empty table. You can edit cells with tap. The flow of the game can be controlled by the controller buttons: "PLAY", "NEXT", "PAUSE". You can change the speed of the game with the seekbar. If you press "CLEAR" button, the game will take up initial state.</p>
 
 
-<p>This is some text. <img src="https://github.com/bodaiboka/test/blob/master/SVID_20170205_195943.gif" width="200" align="middle"> This is some text.</p>
+<p>This is some text. <img src="https://github.com/bodaiboka/test/blob/master/SVID_20170205_195943.gif" width="200" align="right"> This is some text.</p>
 
